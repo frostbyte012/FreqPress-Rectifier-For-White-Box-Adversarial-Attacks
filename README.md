@@ -12,7 +12,7 @@ FreqPress combines frequency-domain filtering (Butterworth) and lossy compressio
 
 ### Image Processing Pipeline 
 
-![FreqPress Pipeline](https://github.com/frostbyte012/FreqPress-Rectifier-For-White-Box-Adversarial-Attacks/blob/main/assets/images/pipeline.png)
+![FreqPress Pipeline](https://github.com/frostbyte012/FreqPress-Rectifier-For-White-Box-Adversarial-Attacks/blob/main/assets/images/pipeline.jpg)
 
 *Overview of the Proposed FreqPress defense*
 
@@ -387,7 +387,7 @@ Example results from our experiments:
 ## Hardware Implementation
 
 <p align="center">
-  <img src="https://github.com/frostbyte012/FreqPress-Rectifier-For-White-Box-Adversarial-Attacks/blob/main/assets/images/hardware_flowdiagram.png" width="400">
+  <img src="https://github.com/frostbyte012/FreqPress-Rectifier-For-White-Box-Adversarial-Attacks/blob/main/assets/images/hardware_flowdiagram.jpg" width="400">
 </p>
 
 <p align="center"><em>Detailed flow diagram of the hardware implementation pipeline.</em></p>
