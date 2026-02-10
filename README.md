@@ -55,6 +55,10 @@ freqpress/
 │   ├── run_autoattack_eval.sh      
 │   ├── run_comprehensive_eval.sh              
 ├── requirements.txt
+├── GFLOP Test/
+│   ├── FreqPress_gflop.py           
+│   ├── GFLOPS_Marked_Code_Verification.ipynb
+│   ├──README.md
 ├── README.md
 └── setup.py
 ```
